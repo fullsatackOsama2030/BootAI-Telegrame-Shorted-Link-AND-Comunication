@@ -4,12 +4,7 @@
 
 
 
-[Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx](https://github.com/user-attachments/files/21673773/Purple.Modern.Neon.New.AI.Robot.Video_20241107_105117_.pptx)
-
-
-
-
-
+<img width="1920" height="1284" alt="Untitledap" src="https://github.com/user-attachments/assets/fdc28f35-253f-483f-ab9d-bcba55005e70" />
 
 
 
