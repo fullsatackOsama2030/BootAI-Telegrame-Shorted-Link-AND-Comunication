@@ -1,8 +1,6 @@
+# Boot_Telegrame Smart
 
-
-
-[Uploading Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx…]()
-
+[Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx](https://github.com/user-attachments/files/21673675/Purple.Modern.Neon.New.AI.Robot.Video_20241107_105117_.pptx)
 
 
 
