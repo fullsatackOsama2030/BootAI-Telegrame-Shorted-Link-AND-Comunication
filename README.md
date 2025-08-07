@@ -4,7 +4,8 @@
 
 
 
-[Uploading Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx…]()
+[Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx](https://github.com/user-attachments/files/21673773/Purple.Modern.Neon.New.AI.Robot.Video_20241107_105117_.pptx)
+
 
 
 
