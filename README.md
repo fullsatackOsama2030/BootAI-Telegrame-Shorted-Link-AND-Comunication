@@ -1,6 +1,6 @@
 # Boot_Telegrame Smart
 
-[Purple Modern Neon New AI Robot Video_20241107_105117_٠٠٠٠.pptx](https://github.com/user-attachments/files/21673675/Purple.Modern.Neon.New.AI.Robot.Video_20241107_105117_.pptx)
+
 
 
 
@@ -43,8 +43,8 @@ logging.basicConfig(level=logging.INFO)
 nest_asyncio.apply()
 
 # إعدادات API
-TELEGRAM_TOKEN = '7577600321:AAHtmaeQmGca3nhxD--_tYxYlUdNyxElz18'  # استبدل بهذا التوكن الخاص بك
-API_KEY = 'AIzaSyCZVuenJfMv6I7uOdSm7zRRfmk2ety-GF0'  # استبدل بهذا API Key الخاص بك
+TELEGRAM_TOKEN = ''  # استبدل بهذا التوكن الخاص بك
+API_KEY = ''  # استبدل بهذا API Key الخاص بك
 API_URL = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={API_KEY}'
 previous_message_id = None
 
