@@ -9,7 +9,7 @@
 
 
 
-
+https://github.com/fullsatackOsama2030/BootAI-Telegrame-Shorted-Link-AND-Comunication/blob/main/Purple%20Modern%20Neon%20New%20AI%20Robot%20Video_20241107_105117_%D9%A0%D9%A0%D9%A0%D9%A0.pptx
 
 
 
