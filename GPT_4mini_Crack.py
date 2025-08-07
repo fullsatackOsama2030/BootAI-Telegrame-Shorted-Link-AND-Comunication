@@ -24,8 +24,8 @@ logger = logging.getLogger(__name__)
 nest_asyncio.apply()
 
 # إعدادات API
-TELEGRAM_TOKEN = '7577600321:AAHtmaeQmGca3nhxD--_tYxYlUdNyxElz18'
-API_KEY = 'AIzaSyCZVuenJfMv6I7uOdSm7zRRfmk2ety-GF0'
+TELEGRAM_TOKEN = 'YourToken'
+API_KEY = 'YourAPI'
 API_URL = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={API_KEY}'
 previous_message_id = None
 
